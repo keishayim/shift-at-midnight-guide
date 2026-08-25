@@ -1,0 +1,24 @@
+{
+  "game": "Shift At Midnight",
+  "evidence_date": "2026-08-19",
+  "source": "Google Trends relatedQueries.csv",
+  "geo": "Worldwide",
+  "status": "draft_pending_serp_and_sources",
+  "pages": [
+    {"slug":"/","primary_intent":"shift at midnight game","priority":"P0"},
+    {"slug":"/walkthrough","primary_intent":"shift at midnight walkthrough","priority":"P0"},
+    {"slug":"/crossplay","primary_intent":"shift at midnight crossplay","priority":"P0"},
+    {"slug":"/multiplayer","primary_intent":"shift at midnight multiplayer","priority":"P0"},
+    {"slug":"/player-count","primary_intent":"shift at midnight how many players","priority":"P0"},
+    {"slug":"/endings","primary_intent":"shift at midnight endings","priority":"P0"},
+    {"slug":"/marionette","primary_intent":"how to kill marionette shift at midnight","priority":"P0"},
+    {"slug":"/dentist","primary_intent":"shift at midnight dentist","priority":"P0"},
+    {"slug":"/doppelgangers","primary_intent":"shift at midnight doppelganger","priority":"P1"},
+    {"slug":"/save","primary_intent":"shift at midnight save","priority":"P1"},
+    {"slug":"/achievements","primary_intent":"shift at midnight achievements","priority":"P1"},
+    {"slug":"/calendar-killer","primary_intent":"shift at midnight calendar killer","priority":"P1"},
+    {"slug":"/game-pass","primary_intent":"shift at midnight gamepass","priority":"P1"},
+    {"slug":"/platforms","primary_intent":"shift at midnight ps5 xbox","priority":"P1"},
+    {"slug":"/demo","primary_intent":"shift at midnight demo","priority":"P1"}
+  ]
+}
